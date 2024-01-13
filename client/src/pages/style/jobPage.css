@@ -1,0 +1,14 @@
+.background-image {
+  background-image: url('../../../public/Saly-23.png');
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* Adjust the height as needed */
+  opacity: 0.5;
+}
+
+.resume-section-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 20px;
+}

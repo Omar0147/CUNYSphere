@@ -1,0 +1,58 @@
+.postForm-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+  max-width: 600px; /* Adjust the max-width according to your design */
+  margin: 0 auto; /* Center the container */
+}
+.postForm-input-group {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: vertical;
+}
+.postForm-p{
+  text-align: center;
+}
+.postForm-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: 1px solid #3498db;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #3498db;
+}
+
+.postForm-btn-primary {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.postForm-btn-primary:hover {
+  background-color: #2980b9;
+}
+
+/* Correct class name for label */
+.post-form-label {
+  font-weight: bold;
+  margin-bottom: 8px;
+}

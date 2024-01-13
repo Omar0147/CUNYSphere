@@ -1,0 +1,41 @@
+.resumeFeedback-page {
+  text-align: center;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.resume-feedback-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  /* Add padding to the container if needed */
+}
+.resumeH1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.resume-p{
+  background-color: #e3f6f5;
+  border-radius: 20px;
+  padding: 50px;
+  width: 50%;
+  word-break: keep-all;
+  font-size: 1.15rem;
+  line-height: 1.70rem;
+}
+
+.resume-feedback-container::before {
+  content: "";
+  background-image: url('../../../public/Saly-23.png');
+  /* Path to your image */
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  opacity: 0.5;
+}
