@@ -48,25 +48,21 @@ What distinguishes **CUNY Sphere** is its array of community-driven features:
 
 ## Team Members
 
+- **Omar Abdullah**  
+  *Queens College*  
+  GitHub: [Omar0147](https://github.com/Omar0147)
+  
+- **Amir Hamza**  
+  *Brooklyn College*  
+  GitHub: [hhkbhamza](https://github.com/hhkbhamza)
+  
 - **Dahyeon Park**  
   *City College of New York*  
-  Email: `dpark000@citymail.cuny.edu`  
   GitHub: [dpark714](https://github.com/dpark714)
 
 - **Benjamin Zhang**  
   *Hunter College*  
-  Email: `benjamin.zhang76@myhunter.cuny.edu`  
   GitHub: [ZhangBenjamin](https://github.com/ZhangBenjamin)
-
-- **Omar Abdullah**  
-  *Queens College*  
-  Email: `omar.abdullah12@qmail.cuny.edu`  
-  GitHub: [Omar0147](https://github.com/Omar0147)
-
-- **Amir Hamza**  
-  *Brooklyn College*  
-  Email: `a.hamza8596@gmail.com`  
-  GitHub: [hhkbhamza](https://github.com/hhkbhamza)
 
 ## Technologies Used
 
